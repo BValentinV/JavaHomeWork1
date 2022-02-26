@@ -24,7 +24,6 @@ public class Main {
         System.out.println("\nPoint 7: ");
         System.out.println(comparisonArray(arr7));
 
-
     }
 
     public static void invertArray(int[] arr) {
@@ -113,4 +112,5 @@ public class Main {
         }
         return false;
     }
+
 }
